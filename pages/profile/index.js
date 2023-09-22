@@ -1,15 +1,15 @@
 import Layout from '@/src/containers/Layout'
 import Head from 'next/head'
 
-export default function Sensors() {
+export default function User() {
   return (
     <>
       <Head>
-        <title>Sensor | Soil and Environment Monitoring Systems</title>
+        <title>Profil | Soil and Environment Monitoring Systems</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Layout>
-        <h1>Sensor</h1>
+        <h1>Profil</h1>
       </Layout>
     </>
   )
